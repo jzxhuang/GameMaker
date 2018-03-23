@@ -15,4 +15,6 @@ The game is a sidescroller with a mix of wandering enemies and tricky terrain. I
 ## Mansion Busters
 A young, aspiring ghosthunter armed with a nerf gun takes on a haunted house that even the most consummate professionals stay away from. Everything in the house starts coming alive, and difficult puzzles prevent the escape of the brave teen - will he be able to make it out?
 
-I don't have a trailer for this one, but [check it out here!](http://assets.jzxhuang.com/games/Mansion%20Buster.exe)
+I don't have a trailer for this one, but [check out the game here!](http://assets.jzxhuang.com/games/Mansion%20Buster.exe)
+
+![Mansion Busters](http://assets.jzxhuang.com/images/cards/modal/mansionbuster.jpg)
