@@ -1,5 +1,5 @@
 # GameMaker
-2 games that I worked on for the DPCDSB GameMaker competition. Titled Jester's Rampage and Mansion Busters, both finished top 5 in the competition.
+Two games that I worked on for the DPCDSB GameMaker competition. Titled Jester's Rampage and Mansion Busters, both finished top 5 in the competition. These games got me interested in coding!
 
 They were built on YoYo Games' GameMaker Studio software, which features a drag and drop GUI that made creating the games easy - they didn't require much coding, aside from a couple manual scripts that we wrote. However, these games were pretty much my intro to programming, so they hold a special place in my heart. 
 
